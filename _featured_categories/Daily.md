@@ -4,7 +4,7 @@ title: Daily
 slug: daily
 menu: true
 submenu: false
-order: 5
+order: 2
 description: >
   일상
 ---
