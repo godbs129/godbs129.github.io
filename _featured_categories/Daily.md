@@ -1,5 +1,5 @@
 ---
-layout: Daily
+layout: list
 title: Daily
 slug: daily
 menu: true
