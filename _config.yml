@@ -22,8 +22,8 @@ description:         >
 
 # This should be the same author as first entry in `_data/authors.yml`
 author:
-  name:              min
-  email:             theorydb@gmail.com
+  name:              Jun Haeyoon
+  email:             junhaeyoon@gmail.com
 
 # Fallback image and color
 image:               /assets/img/main_left.jpg
