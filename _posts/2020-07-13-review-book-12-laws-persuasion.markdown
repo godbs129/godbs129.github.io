@@ -6,7 +6,7 @@ categories: review
 tags: review book 설득 광고마스터 실전 선의 협동 심리학 경청 인정 인내 정직 진솔
 comments: true  
 header-img: img/review/2020-07-13-review-book-12-laws-persuasion-1.png
----  
+---
   
 > `웅진지식하우스` 출판사의 `"설득의 12가지 법칙(김시래 저)"`를 읽고 작성한 리뷰입니다.  
 
