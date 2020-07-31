@@ -51,7 +51,7 @@ disqus: True
 disqus_shortname:    godbs129
 
 # This text will appear in the footer of every page. Markdown enabled.
-copyright:           '&copy; 2019.04. by godbs129'
+copyright:           '&copy; 2020 by godbs129'
 
 # Format of the permalinks
 permalink:           pretty
