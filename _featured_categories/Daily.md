@@ -1,7 +1,7 @@
 ---
 layout: Daily
 title: Daily
-slug: Daily
+slug: daily
 menu: true
 submenu: false
 order: 5
