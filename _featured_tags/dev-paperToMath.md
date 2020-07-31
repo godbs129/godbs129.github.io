@@ -1,7 +1,7 @@
 ---
 layout: tag-blog
-title: PaperToMath
-slug: papertomath
+title: Mobile
+slug: mobile
 category: dev
 menu: false
 order: 3

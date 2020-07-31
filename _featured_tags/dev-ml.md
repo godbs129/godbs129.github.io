@@ -1,7 +1,7 @@
 ---
 layout: tag-blog
-title: ML
-slug: ml
+title: Web
+slug: web
 category: dev
 menu: false
 order: 1
