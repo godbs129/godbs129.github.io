@@ -17,7 +17,8 @@ header-img: img/fun/bob-rose.jpg
 | 다리 | 다리1 | 다리2 | 뚝배기깹니다
 | 금 | 의 | 환 | 향
 
-```#include<stdio.h>
+```
+#include<stdio.h>
 main(){
     printf("Hello World\n");
 }
