@@ -27,4 +27,4 @@ main(){
 ~~안녕하세요~~
 <br>
 
-![그런데말입니다](img/fun/by-the-way.png)
+![그런데말입니다](assets/img/fun/by-the-way.png)
