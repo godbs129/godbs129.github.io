@@ -26,4 +26,4 @@ main(){
 ~~안녕하세요~~
 <br>
 
-<img src="img/fun/by-the-way.png" width="80" height="80">
+![그런데말입니다](img/fun/by-the-way.png)
