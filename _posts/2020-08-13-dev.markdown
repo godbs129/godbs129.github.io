@@ -27,4 +27,5 @@ main(){
 ~~안녕하세요~~
 <br>
 
-![그런데말입니다](assets/img/fun/by-the-way.png)
+![by-the-way](https://user-images.githubusercontent.com/61962673/90094893-1cf03e80-dd6a-11ea-9623-64c80727f677.png)
+
