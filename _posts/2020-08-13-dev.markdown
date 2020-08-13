@@ -8,12 +8,7 @@ comments: true
 header-img: img/fun/bob-rose.jpg
 ---
 <br>
-테스트 | 테스트 | 테스트 | 테스트
----- | ---- | ---- | ----
-테스트1 | 테스트1 | 테스트1 | 테스트1
-안 | 녕 | 하 | 다
-<br>
-**********************************
+***********************************************
 
 ```#include<stdio.h>
 main(){
@@ -24,4 +19,4 @@ main(){
 ~~안녕하세요~~
 <br>
 
-<img src="assets/img/fun/by-the-way.png" width="80" height="80">
+<img src="img/fun/by-the-way.png" width="80" height="80">
