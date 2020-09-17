@@ -1,0 +1,13 @@
+---
+layout: post
+title: "[일상] 첫 글"
+subtitle: "깃허브 블로그 첫 글"
+categories: daily
+tags: daily first 첫 글
+comments: true
+---
+
+
+오늘부터 적어도 `일주일`에 3~4개씩 헛소리도 올리기
+
+~~깃허브 네이버 티스토리 중에 고민중~~

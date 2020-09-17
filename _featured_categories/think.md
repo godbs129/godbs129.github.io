@@ -1,10 +1,10 @@
 ---
 layout: list
-title: Think
-slug: think
+title: DGSw
+slug: dgsw
 menu: true
 submenu: false
 order: 4
 description: >
-  살면서 깨달은 아이디어 및 지혜, IT에 관련된 생각, 그리고 평소 쓰고 싶었던 글.  
+  학교생활 하면서 올리는 곳  
 ---
