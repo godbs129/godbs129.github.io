@@ -12,4 +12,4 @@ comments: true
 
 ~~깃허브 네이버 티스토리 중에 고민중~~
 
-![사진](https://godbs129.github.io/assets/img/fun/dulgi.png)
+![사진](https://github.com/godbs129/godbs129.github.io/assets/img/fun/dulgi.png)
