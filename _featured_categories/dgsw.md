@@ -1,6 +1,6 @@
 ---
 layout: list
-title: DGSw
+title: DGSW
 slug: dgsw
 menu: true
 submenu: false
